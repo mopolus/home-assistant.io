@@ -27,7 +27,7 @@ project and setup as light devices:
 - Wireless mobile dimmer
 - Dataline lamp outlet
 
-To manually configure IHC lights insert the "lights" section in 
+To manually configure IHC lights insert the "light" section in 
 your IHC configuration:
 
 ```yaml
