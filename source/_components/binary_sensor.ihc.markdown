@@ -48,7 +48,7 @@ ihc:
 ```
 
 {% configuration %}
-binary_sensors:
+binary_sensor:
   description: List of binary sensors to setup manually.
   required: false
   type: map
