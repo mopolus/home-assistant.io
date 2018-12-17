@@ -36,14 +36,14 @@ ihc:
     username: YOUR_USERNAME2
     password: YOUR_PASSWORD2
     info: true 
-    lights:
+    light:
       - id: 12345
         name: tablelight
       - id: 23432
 ```
 
 {% configuration %}
-lights:
+light:
   description: List of lights to setup manually
   required: false
   type: map
